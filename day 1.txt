@@ -1,0 +1,38 @@
+Question 1
+
+Input:
+number_1 = input('Write the first number. ')
+number_2 = input('write the second number. ')
+add = int(number_1) + int(number_2)
+print(add)
+multiply = int(number_1) * int(number_2)
+print(multiply)
+subtract = int(number_1) - int(number_2)
+print(subtract)
+divide= int(number_1) / int(number_2)
+print(divide)
+
+Output:C:\Users\ravle\PycharmProjects\HelloPython\venv\Scripts\python.exe C:/Users/ravle/PycharmProjects/HelloWorld.1/app.py
+Write the first number. 50
+write the second number. 10
+60
+500
+40
+5.0
+
+Process finished with exit code 0
+
+Question 2
+
+Input:
+X = input('Write the first number. ')
+Y = input('write the second number. ')
+power = int(X) ** int(Y)
+print(int(power))
+
+Output:C:\Users\ravle\PycharmProjects\HelloPython\venv\Scripts\python.exe C:/Users/ravle/PycharmProjects/HelloWorld.1/app.py
+Write the first number. 3
+write the second number. 2
+9
+
+Process finished with exit code 0
